@@ -1,6 +1,6 @@
 "# Chrome-Extensions-Practice" 
 
-Practicing Chrome extension development. 
+<h3>Practicing Chrome Extensions development</h3>
 <hr />
 
 <b>Helpful resources :</b>
